@@ -1,3 +1,4 @@
+//using cs50 library if you don'a have it on your local machine you still run the program after changing "string" on line 6 to "char *"
 #include <cs50.h>
 #include <stdio.h>
 #include <stdint.h>
